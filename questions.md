@@ -117,3 +117,12 @@ Which two EU member states have top-level domain codes that are the reverse of o
 
 Which country's top-level domain code is the reverse of that of Australia?
 > Ukraine 
+
+Winner of the Turing Award in 1984, the Swiss-born Niklaus Wirth developed which high-level structured programming language? It shares its name with that of a French thinker, born in 1623.
+> Pascal
+
+In 2006, which US computer scientist became the first woman to win the Turing Award for contributions to the theory and practice of optimising compiler techniques?  
+> Frances Allen 
+
+Which British scientist won the Turing award in 2016? In 1991, he launched the website info.cern.ch
+> Tim Berners-Lee
