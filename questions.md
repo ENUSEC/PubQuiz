@@ -21,7 +21,7 @@ The rounds will go as follows:
 
 ## General Knowledge
 
-1. ﻿Based on research at Oxford University, a study done in 2009 suggested that the treatment of post-traumatic stress disorder might be aided by the playing of which computer game?
+1. Based on research at Oxford University, a study done in 2009 suggested that the treatment of post-traumatic stress disorder might be aided by the playing of which computer game?
 > Tetris
 
 2. What does the acronym USB stand for?  
@@ -64,6 +64,9 @@ The rounds will go as follows:
 1. Elvis Presley was born in which US city? 
 >Tupelo, Mississippi
 
+2. Who was the first and still the only Scottish born winner of X Factor?
+> Leon Jackson
+
 
 ## Geography
 
@@ -99,6 +102,9 @@ The rounds will go as follows:
 1. What is the name of the boxer who is famous for his catchphrase "Let's go Champ!"
 > Shannon Briggs 
 
+2. At the beginning of the 1994 World Cup in the USA, who was the singer who famously missed a penalty in the heavily choreographed opening ceremony?
+> Diana Ross
+
 ## History
 
 1. During the Second World War, three capitals of belligerent European states were never occupied by force: name any two of them.
@@ -120,6 +126,10 @@ The rounds will go as follows:
 
 1. What color are Sonic the Hedgehog's arms? 
 >Peach/Skin tone
+
+2. Who won the inaugral Britain's got Talent competition?
+> Paul Potts
+
 
 
 
