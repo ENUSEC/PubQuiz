@@ -130,8 +130,8 @@ The rounds will go as follows:
 2. Who won the inaugral Britain's got Talent competition?
 > Paul Potts
 
-
-
+3. Finish this quote from a famous court case, "If it doesn't fit, ..."?
+> "you must acquit."
 
 ## Computing 
 
