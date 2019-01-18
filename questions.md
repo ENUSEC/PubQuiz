@@ -16,12 +16,9 @@ The rounds will go as follows:
  - Pop Culture 
  - Computing 
 
-
-
-
 ## General Knowledge
 
-1. Based on research at Oxford University, a study done in 2009 suggested that the treatment of post-traumatic stress disorder might be aided by the playing of which computer game?
+1. Based on research at Oxford University, a study done in 2009 suggested that the treatment of post-traumatic stress disorder might be aided by the playing of which retro computer game?
 > Tetris
 
 2. What does the acronym USB stand for?  
@@ -30,32 +27,20 @@ The rounds will go as follows:
 3. Which country makes Panama hats?
 > Ecuador
 
-4. Since 1921, in which country has the Encyclopedia Britannica been published?
-> USA
-
-5. How many legs does a butterfly have?
+4. How many legs does a butterfly have?
 >6
 
-6. From the Greek for “likeness”, what word of four letters is used in both religious art and computing?
->Icon
-
-7. What did the S stand for in Harry S. Truman, 33rd President of the United States?
+5. What did the S stand for in Harry S. Truman, 33rd President of the United States?
 > Nothing, it was just his initial
 
-8. Originally beginning with a 1984 conference, what does the acronym TED stand for?
+6. Originally beginning with a 1984 conference, what does the acronym TED stand for?
 > Technology, Entertainment, Design 
 
-9. Jack Dorsey, Evan Williams, Biz Stone and Noah Glass launched which revolutionary service in 2006?
+7. Jack Dorsey, Evan Williams, Biz Stone and Noah Glass launched which revolutionary web-service in 2006?
 >Twitter
 
-10. Wikipedia was launched in what year?
+8. Wikipedia was launched in what year?
 > 2001
-
-11. Now an everyday words, what term was coined by the Irish painter Robert Barker in the 1790s to describe his views of Edinburgh, painted on the interior of a cylinder and designed to be viewed from the inside?
-> Panorama 
-
-12. The oldest surviving building in Edinburgh stands at the highest point of Castle Rock and is a chapel dedicated to which saint, the wife of the eleventh-century monarch Malcom III?
-> St Margaret
 
 ## Film and Television 
 
@@ -88,13 +73,10 @@ The rounds will go as follows:
 6. The Kingdom of Denmark officially consists of what autonomous countries?
 > Denmark, Greenland and Faroe Islands
 
-7. Two countries have top-level domain country codes comprising letters at the extremes of the alphabet One is Azerbaijan, that is .az What is the other country?
-> South Africa
-
-8. Which two EU member states have top-level domain codes that are the reverse of one another? 
+7. Which two EU member states have top-level domain codes that are the reverse of one another? 
 > Sweden and Spain
 
-9. Which country's top-level domain code is the reverse of that of Australia?
+8. Which country's top-level domain code is the reverse of that of Australia?
 > Ukraine 
 
 ## Sports
@@ -105,9 +87,17 @@ The rounds will go as follows:
 2. At the beginning of the 1994 World Cup in the USA, who was the singer who famously missed a penalty in the heavily choreographed opening ceremony?
 > Diana Ross
 
+3. Who particpated in the final of the 2018 World Cup final?
+> France & Croatia
+
+4. Who won the last time Scotland played England at Cricket?
+> Scotland
+
+5.
+
 ## History
 
-1. During the Second World War, three capitals of belligerent European states were never occupied by force: name any two of them.
+1. During the Second World War, three capitals of particpating European states were never occupied by force: name any two of them.
 >London, Moscow, Helsinki
 
 2. How long was the Hundred Years War?
@@ -122,10 +112,13 @@ The rounds will go as follows:
 5. Edinburgh's Princes Street was named after the Duke of Rothsay and Frederick, Duke of York, the sons of which King?
 > George III 
 
+6. What did the S stand for in Harry S. Truman, 33rd President of the United States?
+> Nothing, it was just his initial
+
 ## Pop Culture
 
 1. What color are Sonic the Hedgehog's arms? 
->Peach/Skin tone
+> Peach/Skin tone
 
 2. Who won the inaugral Britain's got Talent competition?
 > Paul Potts
@@ -153,30 +146,24 @@ The rounds will go as follows:
 6. Computer engineer Ray Tomlinson is credited with sending the first email in what year?
 >1971
 
-7. What was the name of the first computer to beat a grandmaster in chess in 1988?
-> Deep Thought
-
-8. The AZERTY keyboard is used as an alternative to the standard QWERTY layout in which country?
+7. The AZERTY keyboard is used as an alternative to the standard QWERTY layout in which country?
 >France
 
-9. In 2005, Rupert Murdoch's News Corporation bought which social networking website? It allows users to share their musical tastes and had become associated with the discovery of new musical talent?
+8. In 2005, Rupert Murdoch's News Corporation bought which social networking website? It allows users to share their musical tastes and had become associated with the discovery of new musical talent?
 > MySpace
 
-10. In 2009, MySpace gained control of the social music discovery technology used on rival sites such as Facebook by acquiring which Seattle-based music service, launced by the brothers Ali and Hadi Partovi in 2006?
-> iLike
-
-11. Created in 2005 by Michael and Xochi Birch, the name of the social networking site Bebo is an acronym representing which four words?
+9. Created in 2005 by Michael and Xochi Birch, the name of the social networking site Bebo is an acronym representing which four words?
 > Blog early, Blog often
 
-12. Which British scientist won the Turing award in 2016? In 1991, he launched the website info.cern.ch
+10. Which British scientist, also known as father of the internet, won the Turing award in 2016? In 1991, he launched the website info.cern.ch
 > Tim Berners-Lee
 
-13. Winner of the Turing Award in 1984, the Swiss-born Niklaus Wirth developed which high-level structured programming language? It shares its name with that of a French thinker, born in 1623.
+11. Winner of the Turing Award in 1984, the Swiss-born Niklaus Wirth developed which high-level structured programming language? It shares its name with that of a French thinker, born in 1623.
 > Pascal
 
-14. In 2006, which US computer scientist became the first woman to win the Turing Award for contributions to the theory and practice of optimising compiler techniques?  
+12. In 2006, which US computer scientist became the first woman to win the Turing Award for contributions to the theory and practice of optimising compiler techniques?  
 > Frances Allen 
 
-15. In mobile phone technology what does SIM, as in SIM card stand for? 
+13. In mobile phone technology what does SIM, as in SIM card stand for? 
 > Subscriber Identity Module
 
