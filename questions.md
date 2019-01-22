@@ -42,6 +42,22 @@ The rounds will go as follows:
 8. Wikipedia was launched in what year?
 > 2001
 
+8. What was the name of the scientist who discovered radiation?
+> Marie Curie 
+
+9. What is newtons 3rd law of physics?
+> Every action, has an equal and opposite reaction
+
+10. What is the highest possible score attainable in 1 round of snooker?
+> 147
+
+11. What is the name given to a machine that is able to replicate itself, using only raw materials it can find?
+> Von Neumann Machine
+
+12. What is 1 calorie based apon?
+> The energy required to heat 1 gram of water by 1 degrees celsius
+
+
 ## Film and Television 
 
 ## Music
@@ -79,6 +95,13 @@ The rounds will go as follows:
 8. Which country's top-level domain code is the reverse of that of Australia?
 > Ukraine 
 
+9. What is the deepest part of the occean called?
+> Mariana trench
+
+10. what city has the largest population in the world?
+> Tokyo
+ 
+
 ## Sports
 
 1. What is the name of the boxer who is famous for his catchphrase "Let's go Champ!"
@@ -114,6 +137,14 @@ The rounds will go as follows:
 
 6. What did the S stand for in Harry S. Truman, 33rd President of the United States?
 > Nothing, it was just his initial
+
+7. What year was the magna carter signed?
+> 1215
+
+8. Who was the name of the location where Alan Turing and his team of other cryptographers, where able to crack the german WWII cipher, Enigma
+> bletchely park
+
+
 
 ## Pop Culture
 
