@@ -11,6 +11,9 @@ The rounds will go as follows:
  - Film and Television
  - Music
  - Geography
+ 
+ Double points super challenge round - double points, double losses!! Subject: Gaming!
+ 
  - Sports
  - History 
  - Pop Culture 
@@ -45,11 +48,10 @@ The rounds will go as follows:
 9. What is newtons 3rd law of physics?
 > Every action, has an equal and opposite reaction
 
-10. What is the highest possible score attainable in 1 round of snooker?
-> 147
+10. STDs are the most costly health problem in the USA what's 2nd?
+> Dog bites
 
-11. What is the name given to a machine that is able to replicate itself, using only raw materials it can find?
-> Von Neumann Machine
+
 
 12. What is 1 calorie based apon?
 > The energy required to heat 1 gram of water by 1 degrees celsius
@@ -63,13 +65,18 @@ The rounds will go as follows:
 
 ## Film and Television 
 
-3. Eric Morracone is known for conducting the dollar's trilogy soundtrack, for what movie did he recieve an oscar?	
+1. Ennio Morricone is known for conducting the dollar's trilogy soundtrack, for what movie did he recieve an oscar?	
 > The Hateful 8
+
+2. Name the actors who have played Batman in movies.
+> Michael Keeton, Val Kilmer, George Clooney, Christian Bale and Ben Afleck
+
+3
 
 ## Music
 
-1. Elvis Presley was born in which US city? 
->Tupelo, Mississippi
+1. Elvis Presley was born in which US state? 
+> Mississippi
 
 2. Who was the first and still the only Scottish born winner of X Factor?
 > Leon Jackson
@@ -77,13 +84,34 @@ The rounds will go as follows:
 3. All three of the popular “CSI” TV dramas feature theme songs performed by what rock band?	
 > The WHO
 
+4. Used in the films Back to the Future and American Grafitti, the music of which rock and roll legend also features on the Gold Discs carried into space by the Voyager 1&2 probes?
+> Chuck Berry
+
+5. MTV launched the first 24hr music channel in the world in August of 1981, what was the first music video they played?
+> Video Killed the Radio Star
+
+6. Freddie Murcury was born in which country?
+> Tanzania
+
+7. Which singer's real name is Peter Gene Hernandez? 
+> Bruno Mars 
+
+8. Which song, with a total of 206 weeks, holds the record for most time spend in the UK's Top 100?
+> Mr. Brightside
+
+9. A clarsach, is what kind of traditional Irish musical instrument?
+> A harp
+
+10. What Method Of Singing Does The Singer Alternate Between Natural Voice & Falsetto?
+> Yodelling 
+
 ## Geography
 
-1. South Africa has a legislative capital, an administrative capital and a judicial capital. Name two of the three capitals.
-> Legislative: Cape Town; Administrative: Pretoria; Judicial: Bloemfontein
+1. The Khunjerab Pass is the highest paved border crossing in the world, but which countries does it cross?
+> China and Pakistan
 
 2. The capital cities of Vienna, Budapest, Bratislava, and Belgrade all have what in common?
->The Danube
+> The Danube
 
 3. Judged by passenger traffic, what is the world's busiest airport?
 > Hartsfield–Jackson Atlanta International
@@ -92,10 +120,10 @@ The rounds will go as follows:
 > Lake Baikal
 
 5. Well known as the longest river in the world, through how many countries does the Nile flow?
->11
+> 11
 
-6. The Kingdom of Denmark officially consists of what autonomous countries?
-> Denmark, Greenland and Faroe Islands
+6. The Kingdom of Denmark officially consists of what autonomous countries (exluding Denmark of course)?
+> Greenland and Faroe Islands
 
 7. Which two EU member states have top-level domain codes that are the reverse of one another? 
 > Sweden and Spain
@@ -106,8 +134,8 @@ The rounds will go as follows:
 9. What is the deepest part of the occean called?
 > Mariana trench
 
-10. what city has the largest population in the world?
-> Tokyo
+10. Tokyo might be known for claiming to be the largest city in the world, but what is the largest city, by population, in Africa?
+> Lagos, Nigeria
  
 
 ## Sports
@@ -126,6 +154,22 @@ The rounds will go as follows:
 
 5. Who is the current lineal heavyweight champion boxer of the world?
 > Tyson Fury
+
+6. The USA boycotted which year's Summer Olympics?
+> 1980, Moscow.
+
+7. In what sport is it against the rules to breath in? 
+> Kabaddi
+
+8. The modern game of Polo was founded in India, but in which country does it have its origin?
+> Persia (Iran)
+
+9. What is thought to be the oldest sport in the world?
+> Running! 
+
+10. Winners at the first modern Olympics, held in Athens in 1896, were made of what metal?
+> Silver
+
 
 ## History
 
@@ -153,9 +197,15 @@ The rounds will go as follows:
 8. George W. Bush had to duck twice when an Iraqi journalist threw what at his head?
 > Shoes
 
+9. The month of August is the eighth month of the year due to which pharaoh?
+> Cleopatra
+
+10. Robert J Oppenheimer is famously quoted as saying "I have become death, destroyer of worlds" in relation to his work in developing the atomic bomb, but which book does that quote originally come from?
+> Bhagavad Gita
 
 
-## Pop Culture - 4 more required
+
+## Pop Culture 
 
 1. What color are Sonic the Hedgehog's arms? 
 > Peach/Skin tone
@@ -163,8 +213,8 @@ The rounds will go as follows:
 2. Who won the inaugral Britain's got Talent competition?
 > Paul Potts
 
-3. Finish this quote from a famous court case, "If it doesn't fit, ..."?
-> "you must acquit."
+3. What cryptocurrency is named after a famous meme?
+> Dogecoin
 
 4. Robert Tarbox, Jack Tarrance, Arthur Leigh Allan & Ted Cruz are all suspected to be which famous serial killer?
 > The Zodiac Killer
@@ -175,8 +225,20 @@ The rounds will go as follows:
 6. What is the name of the company who's lager cans had "lager lovelies" on them?
 > Tennents
 
+7. What speed must the Delorean time machine reach to travel through time in the Back to the Future series?
+> 88mph
 
-## Computing - 1 more question
+8. Who was the second man on the moon?
+> Buzz Aldren
+
+9. What is the longest running anime series?
+> Sazae-san, more than 7000 episodes
+
+10. Tamagotchi" is a Japanese portmanteau of what two words? 
+> Egg and watch
+
+
+## Computing 
 
 1. Created by Thomas and John Knoll, which computer program was initially named Display? Its later name entered the OED as a verb in 2006.
 > Photoshop
@@ -204,3 +266,6 @@ The rounds will go as follows:
 
 9. In 2006, which US computer scientist became the first woman to win the Turing Award for contributions to the theory and practice of optimising compiler techniques?  
 > Frances Allen 
+
+10. What is the name given to a machine that is able to replicate itself, using only raw materials it can find?
+> Von Neumann Machine
