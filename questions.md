@@ -63,6 +63,9 @@ The rounds will go as follows:
 
 ## Film and Television 
 
+3. Eric Morracone is known for conducting the dollar's trilogy soundtrack, for what movie did he recieve an oscar?	
+> The Hateful 8
+
 ## Music
 
 1. Elvis Presley was born in which US city? 
@@ -71,6 +74,8 @@ The rounds will go as follows:
 2. Who was the first and still the only Scottish born winner of X Factor?
 > Leon Jackson
 
+3. All three of the popular “CSI” TV dramas feature theme songs performed by what rock band?	
+> The WHO
 
 ## Geography
 
@@ -144,6 +149,9 @@ The rounds will go as follows:
 
 7. What is the name of the location where Alan Turing and his team of other cryptographers, where able to crack the german WWII cipher, Enigma
 > Bletchely Park
+
+8. George W. Bush had to duck twice when an Iraqi journalist threw what at his head?
+> Shoes
 
 
 
