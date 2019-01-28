@@ -1,7 +1,7 @@
 # ENUSEC and the Quiz Knight
 ![enter image description here](https://cdn.discordapp.com/attachments/253573323479449600/531850029867204608/unknown.png)
 
-ENUSEC's first social of 2019 will be a pub quiz at SOME PUB dubbed ENUSEC and the Quiz Knight!
+ENUSEC's first social of 2019 will be a pub quiz at ye old Golf Tavern dubbed ENUSEC and the Quiz Knight!
 
 The quiz will consist of 
 
@@ -30,9 +30,6 @@ The rounds will go as follows:
 4. How many legs does a butterfly have?
 >6
 
-5. What did the S stand for in Harry S. Truman, 33rd President of the United States?
-> Nothing, it was just his initial
-
 6. Originally beginning with a 1984 conference, what does the acronym TED stand for?
 > Technology, Entertainment, Design 
 
@@ -56,6 +53,12 @@ The rounds will go as follows:
 
 12. What is 1 calorie based apon?
 > The energy required to heat 1 gram of water by 1 degrees celsius
+
+13. In mobile phone technology what does SIM, as in SIM card stand for? 
+> Subscriber Identity Module
+
+14. Pablo Escobar is responsible for importing which animals to South America? Recently in the news because as they have establishing themselves as the largest invasive species in the world?
+> Hippos
 
 
 ## Film and Television 
@@ -116,7 +119,8 @@ The rounds will go as follows:
 4. Who won the last time Scotland played England at Cricket?
 > Scotland
 
-5.
+5. Who is the current lineal heavyweight champion boxer of the world?
+> Tyson Fury
 
 ## History
 
@@ -132,21 +136,18 @@ The rounds will go as follows:
 4. Which President effectively doubled the size of the USA with the Lousiana Purchase?
 > Thomas Jefferson
 
-5. Edinburgh's Princes Street was named after the Duke of Rothsay and Frederick, Duke of York, the sons of which King?
-> George III 
-
-6. What did the S stand for in Harry S. Truman, 33rd President of the United States?
+5. What did the S stand for in Harry S. Truman, 33rd President of the United States?
 > Nothing, it was just his initial
 
-7. What year was the magna carter signed?
+6. What year was the Magna Carter signed?
 > 1215
 
-8. Who was the name of the location where Alan Turing and his team of other cryptographers, where able to crack the german WWII cipher, Enigma
-> bletchely park
+7. What is the name of the location where Alan Turing and his team of other cryptographers, where able to crack the german WWII cipher, Enigma
+> Bletchely Park
 
 
 
-## Pop Culture
+## Pop Culture - 4 more required
 
 1. What color are Sonic the Hedgehog's arms? 
 > Peach/Skin tone
@@ -157,7 +158,17 @@ The rounds will go as follows:
 3. Finish this quote from a famous court case, "If it doesn't fit, ..."?
 > "you must acquit."
 
-## Computing 
+4. Robert Tarbox, Jack Tarrance, Arthur Leigh Allan & Ted Cruz are all suspected to be which famous serial killer?
+> The Zodiac Killer
+
+5. Mathematics prodigy and domestic terrorist Ted Kaczynski is better known by what name?
+> The Unabomber 
+
+6. What is the name of the company who's lager cans had "lager lovelies" on them?
+> Tennents
+
+
+## Computing - 1 more question
 
 1. Created by Thomas and John Knoll, which computer program was initially named Display? Its later name entered the OED as a verb in 2006.
 > Photoshop
@@ -171,30 +182,17 @@ The rounds will go as follows:
 4. The Dutch-born Guido van Rossum created wich programming language in the early 1990s?  Its single-word name eludes to a BBC comedy series first broadcast in 1968. 
 > Python
 
-5. In the 1990s, the Canadian-born James Gosling was the lead designer of which object-oriented programming language at Sun Microsystems?
-> Java
-
-6. Computer engineer Ray Tomlinson is credited with sending the first email in what year?
->1971
-
-7. The AZERTY keyboard is used as an alternative to the standard QWERTY layout in which country?
+5. The AZERTY keyboard is used as an alternative to the standard QWERTY layout in which country?
 >France
 
-8. In 2005, Rupert Murdoch's News Corporation bought which social networking website? It allows users to share their musical tastes and had become associated with the discovery of new musical talent?
-> MySpace
-
-9. Created in 2005 by Michael and Xochi Birch, the name of the social networking site Bebo is an acronym representing which four words?
+6. Created in 2005 by Michael and Xochi Birch, the name of the social networking site Bebo is an acronym representing which four words?
 > Blog early, Blog often
 
-10. Which British scientist, also known as father of the internet, won the Turing award in 2016? In 1991, he launched the website info.cern.ch
+7. Which British scientist, also known as father of the internet, won the Turing award in 2016? In 1991, he launched the website info.cern.ch
 > Tim Berners-Lee
 
-11. Winner of the Turing Award in 1984, the Swiss-born Niklaus Wirth developed which high-level structured programming language? It shares its name with that of a French thinker, born in 1623.
+8. Winner of the Turing Award in 1984, the Swiss-born Niklaus Wirth developed which high-level structured programming language? It shares its name with that of a French thinker, born in 1623.
 > Pascal
 
-12. In 2006, which US computer scientist became the first woman to win the Turing Award for contributions to the theory and practice of optimising compiler techniques?  
+9. In 2006, which US computer scientist became the first woman to win the Turing Award for contributions to the theory and practice of optimising compiler techniques?  
 > Frances Allen 
-
-13. In mobile phone technology what does SIM, as in SIM card stand for? 
-> Subscriber Identity Module
-
