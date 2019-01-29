@@ -51,15 +51,16 @@ The rounds will go as follows:
 10. STDs are the most costly health problem in the USA what's 2nd?
 > Dog bites
 
+-----------------
+### NOT USED
 
-
-12. What is 1 calorie based apon?
+What is 1 calorie based apon?
 > The energy required to heat 1 gram of water by 1 degrees celsius
 
-13. In mobile phone technology what does SIM, as in SIM card stand for? 
+In mobile phone technology what does SIM, as in SIM card stand for? 
 > Subscriber Identity Module
 
-14. Pablo Escobar is responsible for importing which animals to South America? Recently in the news because as they have establishing themselves as the largest invasive species in the world?
+Pablo Escobar is responsible for importing which animals to South America? Recently in the news because as they have establishing themselves as the largest invasive species in the world?
 > Hippos
 
 
