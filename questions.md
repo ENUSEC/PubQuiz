@@ -45,7 +45,7 @@ The rounds will go as follows:
 8. What was the name of the scientist who discovered radiation?
 > Marie Curie 
 
-9. What is newtons 3rd law of physics?
+9. What is Newton's 3rd law of physics?
 > Every action, has an equal and opposite reaction
 
 10. STDs are the most costly health problem in the USA what's 2nd?
@@ -68,10 +68,32 @@ The rounds will go as follows:
 1. Ennio Morricone is known for conducting the dollar's trilogy soundtrack, for what movie did he recieve an oscar?	
 > The Hateful 8
 
-2. Name the actors who have played Batman in movies.
+2. Name 3 of the actors who have played Batman in movies.
 > Michael Keeton, Val Kilmer, George Clooney, Christian Bale and Ben Afleck
 
-3
+3. Which 2006 TV Movie Featured Zac Efron, Vanessa Hudgens And Ashley Tisdale?
+> High School Musical
+
+4. In which 2005 movie did Seann William Scott play Bo Duke?
+> Dukes of Hazzard.
+
+5. Netflix is amazing and we all love it, but in what year did it have its birth? (points for 2 years either side)
+> 1997
+
+6. Which movie made the most moeny at the box office, worldwide, since 2010?
+> Star Wars: The Force Awakens
+
+7. We've loved cheeky gordie's Ant and Dec since their days in Biker Grove but which one recently fell foul of the devil's juice?
+> Ant
+
+8. Denis Villeneuve directed the 2017 sequel to which 1982 Sci-fi masterpiece?
+> Bladerunner
+
+9. I'll be back is a famous line from The Terminator, but how many terminator movies have been shot for the franchise? 
+> 6
+
+10. We all love a good wrestling movie, don't we? Name the 2016 Indian movie which still ranks as Bollywood's biggest hit.
+> Dangal
 
 ## Music
 
@@ -81,8 +103,8 @@ The rounds will go as follows:
 2. Who was the first and still the only Scottish born winner of X Factor?
 > Leon Jackson
 
-3. All three of the popular “CSI” TV dramas feature theme songs performed by what rock band?	
-> The WHO
+3. Which Spice Girl recently admitted to having cocaine for breakfast?
+> Mel B/ Scary Spice
 
 4. Used in the films Back to the Future and American Grafitti, the music of which rock and roll legend also features on the Gold Discs carried into space by the Voyager 1&2 probes?
 > Chuck Berry
