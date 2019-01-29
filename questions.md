@@ -158,7 +158,40 @@ The rounds will go as follows:
 
 10. Tokyo might be known for claiming to be the largest city in the world, but what is the largest city, by population, in Africa?
 > Lagos, Nigeria
- 
+
+
+## Super Mega Points Round 
+
+1. Who famously split with Konami to start his own studio?
+> Hideo Kojima
+
+2. How many CoD games are there, not including remasters?
+> 14
+
+3. The 1980 Game Adventure is widely known to contain the first easter egg, what platform did it come out on?
+> Atari 2600
+
+4. Speed is great isn't it? Can you tell me how many minutes it takes to beat the classic Super Mario Bros (1 minute either side)
+> 4:55
+
+5. Which boss in Metal Gear Solid required removing the controller and changing it to another port to beat?
+> Psycho Mantis
+
+6. What game died in the fire of its own hype in 2016?
+> No Man's Sky
+
+7. In what year did gaming site twitch come into existance?
+> 2011
+
+8. What game has won the most game of the year awards?
+> The Witcher 3: Wild Hunt
+
+9. What recent racing game featured Edinburgh as a playable environment?
+> Forza Horizon 4
+
+10. Pull those pistols cowboy! Who is the main character in Red Dead Redemption 2?
+> Arthur Morgan
+
 
 ## Sports
 
