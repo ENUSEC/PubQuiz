@@ -60,10 +60,6 @@ What is 1 calorie based apon?
 In mobile phone technology what does SIM, as in SIM card stand for? 
 > Subscriber Identity Module
 
-Pablo Escobar is responsible for importing which animals to South America? Recently in the news because as they have establishing themselves as the largest invasive species in the world?
-> Hippos
-
-
 ## Film and Television 
 
 1. Ennio Morricone is known for conducting the dollar's trilogy soundtrack, for what movie did he recieve an oscar?	
